@@ -14,7 +14,7 @@
 <h2>🚀 Preview</h2>
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="./img-readm/Captura de tela 2026-05-03 223939.png" width="50%" />
+  <img src="./img-readm/Captura de tela 2026-05-03 223939.png" width="48%" />
   <img src="./img-readm/Captura de tela 2026-05-03 224038.png" width="46%" />
 </p>
 

@@ -6,14 +6,11 @@
 
 
 <p align="center">
-  <a href="https://pokedex-react-js-one.vercel.app/">vercel</a>
+  <a href="https://pokedex-react-js-one.vercel.app/">Vercel</a>
 </p>
 <p align="center">
   <a href="https://pokeapi.co/">📡 API</a>
 </p>
-
-<a href="https://pokedex-react-js-one.vercel.app/">🔗 Ver Demo</a> •
-  <a href="https://pokeapi.co/"></a>
 
 <hr />
 

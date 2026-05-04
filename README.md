@@ -4,10 +4,16 @@
   Aplicação web moderna construída com <strong>React.js</strong> que consome dados da API de Pokémon.
 </p>
 
+
 <p align="center">
-  <a href="https://pokedex-react-js-one.vercel.app/">🔗 Ver Demo</a> •
+  <a href="https://pokedex-react-js-one.vercel.app/">vercel</a>
+</p>
+<p align="center">
   <a href="https://pokeapi.co/">📡 API</a>
 </p>
+
+<a href="https://pokedex-react-js-one.vercel.app/">🔗 Ver Demo</a> •
+  <a href="https://pokeapi.co/"></a>
 
 <hr />
 
@@ -98,18 +104,6 @@ Acesse em: <strong>http://localhost:3000</strong>
 <p>
 Dados consumidos da <a href="https://pokeapi.co/">PokéAPI</a>
 </p>
-
-<hr />
-
-<h2>📈 Melhorias futuras</h2>
-
-<ul>
-  <li>Paginação / scroll infinito</li>
-  <li>Sistema de favoritos</li>
-  <li>Dark mode</li>
-  <li>Testes automatizados</li>
-  <li>CI/CD</li>
-</ul>
 
 <hr />
 

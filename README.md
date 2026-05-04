@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">📱 Pokédex React</h1>
 
 <p align="center">
@@ -130,6 +129,3 @@ Dados consumidos da <a href="https://pokeapi.co/">PokéAPI</a>
   <li>Boas práticas de arquitetura</li>
   <li>Projeto com foco em evolução técnica</li>
 </ul>
-=======
-
->>>>>>> acd467568ae12406a620dcb461ab827a52e2af90
